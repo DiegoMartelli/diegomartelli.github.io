@@ -4,7 +4,7 @@ description: 'Coding thoughts by a Developer Sloth'
 url: 'http://www.diegomartelli.com'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'diegomartelli'
 
 author:
   name: 'Diego Martelli'
